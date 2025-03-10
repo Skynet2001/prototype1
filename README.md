@@ -1,1 +1,1 @@
-# prototype1
+This is my first prototype published on github, it is a trained model for monitoring and detection of tracked armored vehicles, at the end of the file you can see the images of the operation, in addition there will be the model to download it
